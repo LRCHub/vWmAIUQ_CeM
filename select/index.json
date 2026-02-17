@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Debut",
+  "base_artist": "KATSEYE",
+  "createdAt": "2026-02-17T06:00:16.347722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Major Label Debut",
+      "artist": "Broken Social Scene",
+      "has_synced": true,
+      "path": "select/01_Major_Label_Debut_Broken_Social_Scene.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Everything - Debut Single 2015",
+      "artist": "Tiên Tiên",
+      "has_synced": true,
+      "path": "select/02_My_Everything_-_Debut_Single_2015_Tiên_Tiên.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody to Love (Pop #5/ Chart Debut: 4/1/67)",
+      "artist": "Jefferson Airplane",
+      "has_synced": false,
+      "path": "select/03_Somebody_to_Love_(Pop__5__Chart_Debut__4_1_67)_Jefferson_Airplane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody To Love (Pop #5/chart debut: 4/1/67)",
+      "artist": "Jefferson Airplane",
+      "has_synced": false,
+      "path": "select/04_Somebody_To_Love_(Pop__5_chart_debut__4_1_67)_Jefferson_Airplane.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Depuis Le Début",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/05_Depuis_Le_Début_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Debut Y Despedida",
+      "artist": "Los Angeles Negros",
+      "has_synced": true,
+      "path": "select/06_Debut_Y_Despedida_Los_Angeles_Negros.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Debut Y Despedida",
+      "artist": "Los Ángeles Negros",
+      "has_synced": true,
+      "path": "select/07_Debut_Y_Despedida_Los_Ángeles_Negros.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Debut y Despedida",
+      "artist": "Margarita la Diosa de la Cumbia",
+      "has_synced": false,
+      "path": "select/08_Debut_y_Despedida_Margarita_la_Diosa_de_la_Cumbia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scooter's Debut (Intro)",
+      "artist": "Louis The Child",
+      "has_synced": true,
+      "path": "select/09_Scooter's_Debut_(Intro)_Louis_The_Child.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Million Years Ago (live debut)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/10_Million_Years_Ago_(live_debut)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Début de la fin",
+      "artist": "R.E.D.K.",
+      "has_synced": false,
+      "path": "select/11_Début_de_la_fin_R.E.D.K..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Debut",
+      "artist": "Naoko Kawai",
+      "has_synced": false,
+      "path": "select/12_Debut_Naoko_Kawai.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Debut",
+      "artist": "Oskar Linnros",
+      "has_synced": true,
+      "path": "select/13_Debut_Oskar_Linnros.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Générique début",
+      "artist": "Jean-Michel Bernard",
+      "has_synced": true,
+      "path": "select/14_Générique_début_Jean-Michel_Bernard.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Major Debut",
+      "artist": "NakamuraEmi",
+      "has_synced": true,
+      "path": "select/15_Major_Debut_NakamuraEmi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Debut",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Debut_KATSEYE.txt"
+    }
+  ]
+}
